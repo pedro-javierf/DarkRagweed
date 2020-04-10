@@ -1,6 +1,10 @@
 # DarkRagweed
 Ikariam hacking framework + script repository
 
+## Writeup
+
+[click here](https://pedro-javierf.github.io/devblog/ikariamexploit/)
+
 ## Source
 The /src/ folder contains the Python 3 framework to interact with the game. It relies on the classic "API" that is used in classic PC browsers, using mainly POST requests.
 
